@@ -1,5 +1,6 @@
 # Super complex game about something
-
+ ![](https://github.com/drumi/drumi/blob/main/ball.gif)
+  
 ## Game features:
   * 3D
   * Advanced movement system
