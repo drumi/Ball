@@ -1,5 +1,5 @@
 # Super complex game about something
- ![](https://github.com/drumi/drumi/blob/main/ball.gif)
+ ![](https://github.com/drumi/drumi/blob/main/images/ball.gif)
   
 ## Game features:
   * 3D
